@@ -1,1 +1,1 @@
-export const match = cases => key => (cases.hasOwnProperty(key) ? cases[key] : cases['_'])
+exports.match = cases => key => (cases.hasOwnProperty(key) ? cases[key] : cases['_'])
