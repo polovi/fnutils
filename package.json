@@ -1,0 +1,16 @@
+{
+  "name": "futils",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polovi/futils.git"
+  },
+  "author": "Tomas Polovincak",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/polovi/futils/issues"
+  },
+  "homepage": "https://github.com/polovi/futils#readme"
+}
